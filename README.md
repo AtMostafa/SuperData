@@ -1,6 +1,7 @@
 # SuperData
 
 A small python SUPERpackage to import common DATA science packages to the namespace.
+That is, no need to `import numpy as np` in your code.
 
 For example:
 ```

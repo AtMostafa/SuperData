@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="superdata", # Replace with your own username
-    version="0.1",
+    version="0.1.1",
     author="Mostafa",
     author_email="EmailAtMostafa@gmail.com",
     description="A super package that imports datascience packages to the namespace",

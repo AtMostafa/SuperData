@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: superdata
-Version: 0.1
+Version: 0.1.1
 Summary: A super package that imports datascience packages to the namespace
 Home-page: https://github.com/atmostafa/superdata
 Author: Mostafa
@@ -8,7 +8,7 @@ Author-email: EmailAtMostafa@gmail.com
 License: UNKNOWN
 Description: # SuperData
         
-        A small python SUPERpackage to import common DATA science packages to the namespace.
+        A small python package to import common Data science packages to the namespace.
         That is, no need to `import numpy as np` in your code.
         
         For example:

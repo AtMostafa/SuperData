@@ -8,7 +8,7 @@ For example:
 2 a=np.array([1,2,3])
 3 plt.plot(a)
 ```
-
-# ---
-# ## installation
-# Easy installation using pip: https://pypi.org/project/SimStat/0.1/
+<!-- 
+---
+## installation
+ Easy installation using pip: https://pypi.org/project/SimStat/0.1/ -->

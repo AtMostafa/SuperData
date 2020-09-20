@@ -9,7 +9,14 @@ For example:
 2 a=np.array([1,2,3])
 3 plt.plot(a)
 ```
-<!-- 
----
+For now, only covers:
+```
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import matplotlib as mpl
+```
+
 ## installation
- Easy installation using pip: https://pypi.org/project/SimStat/0.1/ -->
+
+Easy installation using pip: https://pypi.org/project/superdata/0.1/
